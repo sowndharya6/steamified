@@ -1,0 +1,20 @@
+{
+  "name": "thermal-conductivity-sim",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.48.3",
+    "@babylonjs/gui": "^9.10.1",
+    "@babylonjs/loaders": "^7.48.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
